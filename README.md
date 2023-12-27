@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi! I'm Bob Varioa!
+### About Me
+- Front-end JS developer, who dips their hands in the backend sometimes ;)
+- Interests: Language design, Linguistics, and L... Tetris
+- It's a psuedonym :P
 
-<!--
-**BobVarioa/bobvarioa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+- Programming Languages
+  - Javascript (Typescript)
+  - HTML, (S)CSS
+  - Java
+  - Kotlin
+  - C#
+- Web technologies
+  - (P)react
+  - MUI Components
 
-Here are some ideas to get you started:
+### Current Projects 
+- [Polyomino](https://github.com/BobVarioa/polyomino)
+- [JSVM](https://github.com/BobVarioa/jsvm)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- @bobvarioa on Discord 
