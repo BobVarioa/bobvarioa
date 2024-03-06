@@ -11,14 +11,18 @@
   - Java
   - Kotlin
   - C#
+  - SQL(-ite)
 - Web technologies
   - (P)react
   - MUI Components
+- Other technologies
+  - Gtk, Gdk, and GStreamer
 
 ### Current Projects 
 - [Polyomino](https://github.com/BobVarioa/polyomino)
 - [JSVM](https://github.com/BobVarioa/jsvm)
 - [UrlDeredirect](https://github.com/BobVarioa/urlderedirect)
+- [Nativ](https://github.com/BobVarioa/nativ)
 
 ### Contact
 - @bobvarioa on Discord 
