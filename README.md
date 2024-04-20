@@ -21,8 +21,11 @@
 ### Current Projects 
 - [Polyomino](https://github.com/BobVarioa/polyomino)
 - [JSVM](https://github.com/BobVarioa/jsvm)
-- [UrlDeredirect](https://github.com/BobVarioa/urlderedirect)
 - [Nativ](https://github.com/BobVarioa/nativ)
+- [My Blog](https://github.com/BobVarioa/site)
+
+### Finished Projects
+- [UrlDeredirect](https://github.com/BobVarioa/urlderedirect)
 
 ### Contact
 - @bobvarioa on Discord 
