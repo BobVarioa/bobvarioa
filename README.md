@@ -1,8 +1,8 @@
 ## Hi! I'm Bob Varioa!
 ### About Me
-- Front-end JS developer, who dips their hands in the backend sometimes ;)
-- Interests: Language design, Linguistics, and L... Tetris
-- It's a pseudonym :P
+- Aspiring full-stack developer, with a lot of experience with Javascript
+- Interests: Linguistics and Compilers
+- It's a pseudonym :)
 
 ### Skills
 - Programming Languages
@@ -12,6 +12,7 @@
   - Kotlin
   - C#
   - SQL(-ite)
+  - WASM
 - Web technologies
   - (P)react
   - MUI Components
