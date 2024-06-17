@@ -8,11 +8,12 @@
 - Programming Languages
   - Javascript (Typescript)
   - HTML, (S)CSS
+  - WASM
   - Java
   - Kotlin
   - C#
+  - C++
   - SQL(-ite)
-  - WASM
 - Web technologies
   - (P)react
   - MUI Components
@@ -20,13 +21,15 @@
   - Gtk, Gdk, and GStreamer
 
 ### Current Projects 
+- [Porffor](https://github.com/CanadaHonk/porffor) (Contributor)
 - [Polyomino](https://github.com/BobVarioa/polyomino)
-- [JSVM](https://github.com/BobVarioa/jsvm)
 - [Nativ](https://github.com/BobVarioa/nativ)
 - [My Blog](https://github.com/BobVarioa/site)
 
 ### Finished Projects
 - [UrlDeredirect](https://github.com/BobVarioa/urlderedirect)
+- [JSVM](https://github.com/BobVarioa/jsvm)
 
 ### Contact
-- @bobvarioa on Discord 
+- `bob dot varioa plus github at gmail dot com`
+- @bobvarioa on Discord
