@@ -1,7 +1,7 @@
 ## Hi! I'm Bob Varioa!
 ### About Me
-- Aspiring full-stack developer, with a lot of experience with Javascript
-- Interests: Linguistics and Compilers
+- Full-stack developer, with a lot of experience with Javascript
+- Mainly interested in language design, whether they're computational or natural
 - It's a pseudonym :)
 
 ### Skills
@@ -32,4 +32,4 @@
 
 ### Contact
 - `bob dot varioa plus github at gmail dot com`
-- @bobvarioa on Discord
+- `at bobvarioa` on Discord
