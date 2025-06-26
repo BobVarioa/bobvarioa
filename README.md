@@ -31,5 +31,5 @@
 - [JSVM](https://github.com/BobVarioa/jsvm)
 
 ### Contact
-- `bob dot varioa plus github at gmail dot com`
+- `me at bobvarioa dot com` via email
 - `at bobvarioa` on Discord
